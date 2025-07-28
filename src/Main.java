@@ -52,6 +52,7 @@ public class Main {
 
         //  Подія 3: Чарівна істота
         System.out.println(" Подія 3: Чарівна істота");
+        System.out.println("Герой зустрічає чарівну істоту тип якої визначається випадково (випадкове число від 1 до 3)");
         int creatureType = sc.nextInt(3) + 1;
         switch (creatureType) {
             case 1:
@@ -74,11 +75,9 @@ public class Main {
 }
 
 
+
+
                     
-
-
-
-
 
 
 
